@@ -22,8 +22,8 @@ code {
 
 .video-react .video-react-video {
    
-    position: absolute;
-    padding-top: 200px;
+        position: absolute;
+    margin-top: 200px;
     left: 0;
     width: 100%;
   
@@ -101,7 +101,7 @@ li a:hover {
 .reel {
   display: flex;
   flex-direction: column;
-  width: 800px;
+  width: 1200px;
  
 }
 .workdesc{
