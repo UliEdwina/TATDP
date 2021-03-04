@@ -9,7 +9,7 @@ class Home extends Component {
         return (
             <div>
           <h1 className="workdesc1 workdesc"> Tiffany's Reel</h1> 
-            <div id="cards">
+          
            
         
             
@@ -23,7 +23,7 @@ class Home extends Component {
         
           
           </div>
-          </div>
+      
         )
         
     }
