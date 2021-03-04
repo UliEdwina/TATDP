@@ -19,6 +19,10 @@ code {
 
   justify-content: center;
 }
+video {
+    object-fit: contain;
+  width:1200px;
+}
 
 .video-react .video-react-video {
    
