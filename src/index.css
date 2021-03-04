@@ -21,6 +21,7 @@ code {
 }
 .video {
    outline: 1px solid #6ee866!important;
+   width: 1200px;
    
 }
 
@@ -108,7 +109,7 @@ li a:hover {
 .reel {
   display: flex;
   flex-direction: column;
-  width: 1200px;
+ 
  
 }
 .workdesc{
