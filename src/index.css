@@ -21,7 +21,9 @@ code {
 }
 
 
-
+.video {
+    object-fit: contain;
+}
 .video .video-react .video-react-video {
   position: absolute;
     margin-top: -750px;
