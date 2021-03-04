@@ -23,12 +23,11 @@ code {
 
 
 .video .video-react .video-react-video {
-    position: absolute;
-    top: 0;
+  position: absolute;
+    margin-top: -750px;
     left: 0;
     width: 100%;
-    height:100%;
-    margin-top: -100px;
+    height: 100%;
   
    
 }
