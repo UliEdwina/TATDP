@@ -19,7 +19,7 @@ code {
 
   justify-content: center;
 }
-video {
+.video {
    outline: 1px solid #6ee866!important;
     margin-top: 200px;
     max-width: 1500px !important;
