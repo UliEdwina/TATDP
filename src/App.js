@@ -6,7 +6,7 @@ import 'react-bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './components/Home'
 import Header from './components/Header'
-import About from './components/BayPark'
+import About from './components/About'
 import BayPark from './components/BayPark'
 import SleepingBeauty from './components/SleepingBeauty'
 import Met from './components/Met'

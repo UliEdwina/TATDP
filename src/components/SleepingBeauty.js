@@ -20,7 +20,7 @@ class SleepingBeauty extends Component {
     render() {
         return (
 <div id="work"  className=".col">
-<h1 className="workdesc">Sleeping Beauty</h1>
+<h1 className="workdesc workdesc1">Sleeping Beauty</h1>
 
 
 

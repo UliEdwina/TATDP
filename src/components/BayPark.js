@@ -27,7 +27,7 @@ class Baypark extends Component {
     render() {
         return (
 <div id="work"  className=".col">
-<h1 className="workdesc">Bay Park</h1>
+<h1 className="workdesc  workdesc1">Bay Park</h1>
 
 
 

@@ -4,7 +4,7 @@ import {Container, Row, Col} from 'react-bootstrap';
 class About extends Component {
     render() {
         return (
-<div >
+<div  className="contact">
 <Container fluid>
   <Row>
     <Col>Contact Me:</Col>

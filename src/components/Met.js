@@ -21,7 +21,7 @@ class Met extends Component {
     render() {
         return (
 <div id="work"  className=".col">
-<h1 className="workdesc">Marble Eye Tanner</h1>
+<h1 className="workdesc workdesc1">Marble Eye Tanner</h1>
 
 
 

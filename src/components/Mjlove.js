@@ -21,7 +21,7 @@ class Mj extends Component {
     render() {
         return (
 <div id="work"  className=".col">
-<h1 className="workdesc">Mj Love</h1>
+<h1 className="workdesc workdesc1">Mj Love</h1>
 
 
 

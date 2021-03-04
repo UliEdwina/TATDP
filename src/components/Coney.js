@@ -43,7 +43,7 @@ class Coney extends Component {
     render() {
         return (
 <div id="work"  className=".col">
-<h1 className="workdesc">TGWGW “ Coney Lost Love </h1>
+<h1 className="workdesc workdesc1">TGWGW “ Coney Lost Love </h1>
 
 
 
