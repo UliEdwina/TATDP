@@ -24,7 +24,7 @@ code {
 .video {
     object-fit: contain;
 }
-.video .video-react .video-react-video {
+ .video-react .video-react-video {
 
     margin-top: -150px;
     left: 0;
