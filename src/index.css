@@ -21,8 +21,9 @@ code {
 }
 video {
    outline: 1px solid #6ee866!important;
-    margin-top: 150px;
+    margin-top: 200px;
     max-width: 1500px !important;
+  margin-left:200px;
 }
 
 .video-react .video-react-video {
