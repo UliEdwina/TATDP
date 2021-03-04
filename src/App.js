@@ -14,6 +14,7 @@ import Coney from './components/Coney'
 import Mjlove from './components/Mjlove'
 import Weight from './components/Weight'
 import Contact from './components/Contact'
+
 import {
     BrowserRouter as Router,
     Switch,
@@ -31,7 +32,7 @@ render(){
     
     <Router>
      <Switch>
-     <Route exact path="/home">
+     <Route exact path="/">
        <Home />
      </Route>
      <Route exact path="/sleepingbeauty">

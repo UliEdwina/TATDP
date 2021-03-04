@@ -16,7 +16,7 @@ code {
 #cards {
   display: flex;
   flex-direction: row;
-  padding-top: 100px;
+  padding-top: 10px !important;
   justify-content: center;
 }
 
@@ -32,7 +32,7 @@ code {
 #basic-navbar-nav {
   /* display: inline; */
 
-  word-spacing: 2em;
+  word-spacing: .12em;
   background-color: #343a40 !important;
   font-family: "Roboto Condensed", sans-serif;
 
@@ -91,6 +91,7 @@ li a:hover {
   display: flex;
   flex-direction: column;
   width: 800px;
+ 
 }
 .workdesc{
     color:aliceblue;
@@ -164,6 +165,9 @@ li a:hover {
     }
     .workdesc{
         margin-left: -300px !important;
+    }
+    .workdesc1{
+        margin-left: -100px !important;
     }
   }
     

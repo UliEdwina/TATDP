@@ -7,6 +7,8 @@ import { Player } from 'video-react';
 class Home extends Component {
     render() {
         return (
+            <div>
+          <h1 className="workdesc1 workdesc"> Tiffany's Reel</h1> 
             <div id="cards">
            
         
@@ -20,6 +22,7 @@ class Home extends Component {
           </Player>
         
           
+          </div>
           </div>
         )
         
