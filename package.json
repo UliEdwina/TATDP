@@ -25,9 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "postinstall": "npm run build",
-    "homepage": "http://localhost:3001/home"
+    "eject": "react-scripts eject"
+    
+   
   },
   "eslintConfig": {
     "extends": [
