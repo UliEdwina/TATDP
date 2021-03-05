@@ -6,7 +6,7 @@ class Header extends Component {
         return (
             <div id="itemsnav">
             <Navbar bg="dark" expand="lg">
-                 <Navbar.Brand className="logo" href="https://taatdp.com/"><span id="dp1">Tiffany Armour Tejeda |</span> <span id="dp2">Director of Photography</span></Navbar.Brand>
+                 <Navbar.Brand className="logo" href="https://taatdp.com/"><span id="dp1">Tiffany Armour Tejada |</span> <span id="dp2">Director of Photography</span></Navbar.Brand>
     
 
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -14,7 +14,7 @@ class Header extends Component {
                     <Nav className="mr-auto">
                     
                     <NavDropdown title="Work" id="basic-nav-dropdown">
-                                <NavDropdown.Item href="https://taatdp.com/sleepingbeauty">Beauty And The Beast</NavDropdown.Item>
+                                <NavDropdown.Item href="https://taatdp.com/sleepingbeauty">Sleeping Beauty</NavDropdown.Item>
                                 <NavDropdown.Item href="https://taatdp.com/baypark">Bay Park</NavDropdown.Item>
                                 <NavDropdown.Item href="https://taatdp.com/marbleeyetanner">Marble Eye Tanner</NavDropdown.Item>
                                 <NavDropdown.Item href="https://taatdp.com/coneylostlove">Coney Lost Love</NavDropdown.Item>
